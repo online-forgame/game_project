@@ -1,0 +1,6 @@
+1.unity基础学习
+2.openGL学习
+3.directX学习
+4.C++11新特性
+5.shader学习
+6.Android和ios进一步了解
